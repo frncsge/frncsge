@@ -4,9 +4,7 @@
 🌄 I like being outside — beach, mountains, sunsets.<br/>
 💻 Coding is one of my hobbies!<br/>
 🌱 Still learning, but enjoying the process. 
-
-"Do what you can and be the best you can be"
--Douglas Crockford
+😺 "Do what you can and be the best you can be" -Douglas Crockford
 
 
 
